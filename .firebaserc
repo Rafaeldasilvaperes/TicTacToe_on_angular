@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "rafaelperestictactoe": {
+      "hosting": {
+        "myapp": [
+          "rafaelperestictactoe"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "rafaelperestictactoe"
+  }
+}
