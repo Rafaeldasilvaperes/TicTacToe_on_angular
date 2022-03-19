@@ -1,4 +1,9 @@
-# Myapp
+# ⁣⭕ Tic Tac Toe ❌
+
+A simple Tic Tac Toe game developed using Angular and as a PWA (Progressive Web App) and deployed in the Firebase Host. This project was based on a video from the channel [Fireship](https://www.youtube.com/watch?v=G0bBLvWXBvc) on Youtube and meant only as an introduction to my studies on the component-based framework Angular. You can access the game on Firebase clicking on this link: [TicTacToe](https://rafaelperestictactoe.web.app/)
+<hr>
+
+## Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
